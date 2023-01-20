@@ -1,0 +1,3 @@
+curl -X GET \
+    --header "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJHTyBKV1QiLCJleHAiOjE2NzQyMzQ3MjIsInVzZXJuYW1lIjoiRmFyaWRsYW4iLCJlbWFpbCI6ImZhcmlkbGFuQG1haWwuY29tIiwiZ3JvdXAiOiJhZG1pbiJ9.RfOKT84mW1oTJUuZkrmMYYAQmP5xVY9WXv0GUaJugzY" \
+    http://localhost:8080/index
